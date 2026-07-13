@@ -1,0 +1,69 @@
+{
+    "ID": "4d76e1f8-bea0-420f-9d3f-3533c71fd457",
+    "OriginalName": "TEST.pdf",
+    "Size": 4119451,
+    "ContentType": "application/pdf",
+    "UploadedAt": "2026-07-13T17:15:07.2046848+05:30",
+    "chunks": [
+        {
+            "id": "4d76e1f8-bea0-420f-9d3f-3533c71fd457_0",
+            "index": 0,
+            "size": 1048576,
+            "locations": [
+                {
+                    "node_id": "node3",
+                    "address": "localhost:9003"
+                },
+                {
+                    "node_id": "node1",
+                    "address": "localhost:9001"
+                }
+            ]
+        },
+        {
+            "id": "4d76e1f8-bea0-420f-9d3f-3533c71fd457_1",
+            "index": 1,
+            "size": 1048576,
+            "locations": [
+                {
+                    "node_id": "node3",
+                    "address": "localhost:9003"
+                },
+                {
+                    "node_id": "node1",
+                    "address": "localhost:9001"
+                }
+            ]
+        },
+        {
+            "id": "4d76e1f8-bea0-420f-9d3f-3533c71fd457_2",
+            "index": 2,
+            "size": 1048576,
+            "locations": [
+                {
+                    "node_id": "node3",
+                    "address": "localhost:9003"
+                },
+                {
+                    "node_id": "node1",
+                    "address": "localhost:9001"
+                }
+            ]
+        },
+        {
+            "id": "4d76e1f8-bea0-420f-9d3f-3533c71fd457_3",
+            "index": 3,
+            "size": 973723,
+            "locations": [
+                {
+                    "node_id": "node3",
+                    "address": "localhost:9003"
+                },
+                {
+                    "node_id": "node1",
+                    "address": "localhost:9001"
+                }
+            ]
+        }
+    ]
+}
